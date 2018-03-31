@@ -1,4 +1,5 @@
-### [v0.0.5](https://github.com/littleflute/weixin/edit/master/README.md)
+### [v0.0.11](https://github.com/littleflute/weixin/edit/master/README.md)
+## [beautifullover](issues/42)
 ### [https://mp.weixin.qq.com/](https://mp.weixin.qq.com/)
 ### [blog](https://littleflute.github.io/blog)
 
