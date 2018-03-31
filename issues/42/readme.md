@@ -1,4 +1,4 @@
-### [v0.0.14](https://github.com/littleflute/weixin/edit/master/issues/42/readme.md) [..](..) [issue](https://github.com/littleflute/weixin/issues/42)
+### [v0.0.15](https://github.com/littleflute/weixin/edit/master/issues/42/readme.md) [..](..) [issue](https://github.com/littleflute/weixin/issues/42)
 
 ## [n1](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001304&idx=1&sn=17f1b06ded5f75ff11ff5b57437ffc55&chksm=1752852520250c3379b42362b5f49a46aa6b5271e2df86dc4829e1c8b9d36b826f9523f0f175&mpshare=1&scene=24&srcid=0401LT6Cl2fEHIiQnowJB35w#rd)
 ## [n2](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001304&idx=2&sn=2b8fcc99519d8d91a4b855747186f869&chksm=1752852520250c335bbc35eb7fe8a7738cf8a0a96a7efebc509f76d6f78053f1495822f7bbd0&mpshare=1&scene=24&srcid=0401JkxoWFJlSlTvDguVUqhx#rd)
@@ -7,3 +7,4 @@
 ## [n5](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001304&idx=5&sn=7ae73d6d1bfde8c3d366ad69ac676759&chksm=1752852520250c3362257623354c2911b8ba4ff9b6b93472ea958be5990bb73fcb3dbbc4c806&mpshare=1&scene=24&srcid=0401oZxEIBLUukM1zcwlpQw2#rd)
 ## [n6](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001304&idx=6&sn=a5a85f4326b70035fd12689c255368f8&chksm=1752852520250c33fd5ccf93dde4073be43b4f06922c90af71e4cab753e163e6edc71ab48c5d&mpshare=1&scene=24&srcid=0401K8Zo8icy9Bp0y5UsawOw#rd)
 ## [n7](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001304&idx=7&sn=f02d63a378bfb305394cc27678d0f890&chksm=1752852520250c33d9f69e4007e15eaaa2b99467ebd65806bebe21e6d2c33dd6732ff72bb3df&mpshare=1&scene=24&srcid=0401VVgiFYuETEaNa5DhXrOD#rd)
+## [n8](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001304&idx=8&sn=fedba9f3e10c00437b7865dc8a131437&chksm=1752852520250c335f65aa7ecda26517fbdbe006fe5b2b2ccaaa11cd25299d09758f0e57f187&mpshare=1&scene=24&srcid=0401cEE9jK2ypUwyztQhFqmP#rd)
