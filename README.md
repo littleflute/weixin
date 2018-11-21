@@ -1,4 +1,4 @@
-### [v0.0.23](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>
+### [v0.0.24](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>
 ## [漂泊者乐园公众号mislestone](https://github.com/littleflute/weixin/milestone/2)
 ## [红渡中学22班公众号milestone](https://github.com/littleflute/weixin/milestone/1)
 ## [笛声嘹亮milestone](https://github.com/littleflute/weixin/milestone/5) [https://littleflute.github.io/littleflute/](https://littleflute.github.io/littleflute/)
@@ -19,7 +19,7 @@
       if(!_plx.v){
         _plx.v = blo0.blMDiv(document.body, "id_div_4-weixin-plx" , "weixin-plx: v0.0.1", 222,50,250,50, blColor[3]);   
         function _loadIssue (o) {                             eval(o.body);	             }
-        var url = "https://api.github.com/repos/littleflute/weixin/issues/38";
+        var url = "https://api.github.com/repos/littleflute/weixin/issues/102";
         w3.getHttpObject(url, _loadIssue );
       }
       var b = _plx;
