@@ -1,5 +1,5 @@
-### [v0.0.31](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>
-## [漂泊者乐园公众号mislestone](https://github.com/littleflute/weixin/milestone/2)
+### [v0.0.32](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>
+## [漂泊者乐园公众号mislestone](https://github.com/littleflute/weixin/milestone/2) [repo](https://github.com/littleflute/BeautifulLover)
 ## [红渡中学22班公众号milestone](https://github.com/littleflute/weixin/milestone/1)
 ## [menu](https://mp.weixin.qq.com/mp/homepage?__biz=MzA5MzMwNTc0Ng==&hid=1&sn=f6cb05f07d81758d923f90ee5c905c92) [笛声嘹亮milestone](https://github.com/littleflute/weixin/milestone/5) [https://littleflute.github.io/littleflute/](https://littleflute.github.io/littleflute/)
 
