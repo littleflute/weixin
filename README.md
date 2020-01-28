@@ -1,5 +1,6 @@
-### [v0.0.33](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>
+### [v0.0.34](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>
 ### [https://github.com/littleflute/TED-Ed](https://github.com/littleflute/TED-Ed)
+### [DWNews](https://github.com/littleflute/DWNews)
 
 ## [漂泊者乐园公众号mislestone](https://github.com/littleflute/weixin/milestone/2) [repo](https://github.com/littleflute/BeautifulLover)
 ## [红渡中学22班公众号milestone](https://github.com/littleflute/weixin/milestone/1)
