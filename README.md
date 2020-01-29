@@ -1,5 +1,5 @@
-### [v0.0.41](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>
-### [https://github.com/littleflute/TED-Ed](https://github.com/littleflute/TED-Ed)
+### [v0.0.42](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>
+### [TED-Ed](https://github.com/littleflute/TED-Ed)  [newTed](https://github.com/littleflute/newTed)
 ### [DWNews](https://github.com/littleflute/DWNews) [CBCNews](https://github.com/littleflute/cbcnews)
 ### [Top10USA](https://github.com/littleflute/Top10USA)
 
