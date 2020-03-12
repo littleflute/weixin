@@ -1,4 +1,5 @@
-### [v0.0.133](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button> [ssnn](https://github.com/littleflute/weixin/labels/ssnn) [NBA](https://littleflute.github.io/NBA) [group6](https://littleflute.github.io/group6) 
+### [v0.0.134](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button> [ssnn](https://github.com/littleflute/weixin/labels/ssnn) [NBA](https://littleflute.github.io/NBA) [group6](https://littleflute.github.io/group6) 
+### [Coronavirus](https://github.com/littleflute/Coronavirus)
 ### [https://data.wxb.com/rankArticle](https://data.wxb.com/rankArticle)
 ### [DVD1](https://github.com/littleflute/dvd1) [ebooks](https://github.com/littleflute/ebooks) 
 ### [17ting](https://github.com/littleflute/17ting) [tdt](https://github.com/littleflute/tdt) [kdt](https://github.com/littleflute/kdt) [talent](https://github.com/littleflute/talent) [The-Voice](https://github.com/littleflute/The-Voice)
