@@ -1,4 +1,5 @@
-### [v0.0.135](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button> [ssnn](https://github.com/littleflute/weixin/labels/ssnn) [NBA](https://littleflute.github.io/NBA) [group6](https://littleflute.github.io/group6) [ssnn](https://github.com/littleflute/ssnn)
+### [v0.0.141](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button> [ssnn](https://github.com/littleflute/weixin/labels/ssnn) [NBA](https://littleflute.github.io/NBA) [group6](https://littleflute.github.io/group6) [ssnn](https://github.com/littleflute/ssnn)
+## [漂泊者乐园公众号mislestone](https://github.com/littleflute/weixin/milestone/2) [repo](https://github.com/littleflute/BeautifulLover)
 ### [Coronavirus](https://github.com/littleflute/Coronavirus)
 ### [https://data.wxb.com/rankArticle](https://data.wxb.com/rankArticle)
 ### [DVD1](https://github.com/littleflute/dvd1) [ebooks](https://github.com/littleflute/ebooks) 
@@ -10,7 +11,7 @@
 ### [DWNews](https://github.com/littleflute/DWNews) [CBCNews](https://github.com/littleflute/cbcnews)
 ### [Top10USA](https://github.com/littleflute/Top10USA)
 
-## [漂泊者乐园公众号mislestone](https://github.com/littleflute/weixin/milestone/2) [repo](https://github.com/littleflute/BeautifulLover)
+
 ## [红渡中学22班公众号milestone](https://github.com/littleflute/weixin/milestone/1)
 ## [menu](https://mp.weixin.qq.com/mp/homepage?__biz=MzA5MzMwNTc0Ng==&hid=1&sn=f6cb05f07d81758d923f90ee5c905c92) [笛声嘹亮milestone](https://github.com/littleflute/weixin/milestone/5) [https://littleflute.github.io/littleflute/](https://littleflute.github.io/littleflute/)
 
