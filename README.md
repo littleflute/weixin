@@ -1,4 +1,4 @@
-### [v0.0.141](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button> [ssnn](https://github.com/littleflute/weixin/labels/ssnn) [NBA](https://littleflute.github.io/NBA) [group6](https://littleflute.github.io/group6) [ssnn](https://github.com/littleflute/ssnn)
+### [v0.0.142](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>  [NBA](https://littleflute.github.io/NBA) [group6](https://littleflute.github.io/group6) [ssnn](https://github.com/littleflute/ssnn)
 ## [漂泊者乐园公众号mislestone](https://github.com/littleflute/weixin/milestone/2) [repo](https://github.com/littleflute/BeautifulLover)
 ### [Coronavirus](https://github.com/littleflute/Coronavirus)
 ### [https://data.wxb.com/rankArticle](https://data.wxb.com/rankArticle)
