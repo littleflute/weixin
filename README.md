@@ -1,9 +1,9 @@
-### [v0.0.143](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>  [NBA](https://littleflute.github.io/NBA) [group6](https://littleflute.github.io/group6) [ssnn](https://github.com/littleflute/ssnn) [hz22](https://github.com/littleflute/hz22)  [littleflute](https://github.com/littleflute/littleflute)  [BeautifulLover](https://github.com/littleflute/BeautifulLover)
+### [v0.0.144](https://github.com/littleflute/weixin/edit/master/README.md) <button id = "id_btn_4_weixin_plx">+plx</button>  [NBA](https://littleflute.github.io/NBA) [group6](https://littleflute.github.io/group6) [ssnn](https://github.com/littleflute/ssnn) [hz22](https://github.com/littleflute/hz22)  [littleflute](https://github.com/littleflute/littleflute)  [BeautifulLover](https://github.com/littleflute/BeautifulLover)
 ## [漂泊者乐园公众号mislestone](https://github.com/littleflute/weixin/milestone/2)
 ### [Coronavirus](https://github.com/littleflute/Coronavirus)
 ### [https://data.wxb.com/rankArticle](https://data.wxb.com/rankArticle)
 ### [DVD1](https://github.com/littleflute/dvd1) [ebooks](https://github.com/littleflute/ebooks) 
-### [17ting](https://github.com/littleflute/17ting) [tdt](https://github.com/littleflute/tdt) [kdt](https://github.com/littleflute/kdt) [talent](https://github.com/littleflute/talent) [The-Voice](https://github.com/littleflute/The-Voice)
+
 ### [youtube](https://github.com/littleflute/youtube) [bilibili](https://github.com/littleflute/bilibili)
 ### [https://www.wxb.com/wxpush](https://www.wxb.com/wxpush)
 ### [https://www.bilibili.com/](https://www.bilibili.com/) [ffmpeg](https://github.com/littleflute/ffmpeg) [PDFs](https://github.com/littleflute/PDFs)
